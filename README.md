@@ -31,4 +31,4 @@ Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL ,6th
 
 ## Project Report:
 
-_Report 1_: [Report](Assignment1Report/Assignment1Report_part1.md)
+_Report 1_: [Report 1 - Part I](Assignment1Report/Assignment1Report_part1.md)
