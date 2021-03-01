@@ -31,15 +31,15 @@ Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL ,6th
 
 ## Project Report:
 
-_Report 1_: [Report 1 - Part I](Assignment1Report/Assignment1Report_part1.md)
+_Report 1-1_:	[Report 1 - Part I](Assignment1Report/Assignment1Report_part1.md)
 
-			[Report 1 - Part II](Assignment1Report/Assignment1Report_part2.md)
+_Report 1-2_:	[Report 1 - Part II](Assignment1Report/Assignment1Report_part2.md)
 
-			[Report 1 - Part III](Assignment1Report/Assignment1Report_part3.md)
+_Report 1-3_:	[Report 1 - Part III](Assignment1Report/Assignment1Report_part3.md)
 
-_Report 2_: [Report 2 - Part I](Assignment2Report/Assignment2Report_part1.md)
+_Report 2-1_:	[Report 2 - Part I](Assignment2Report/Assignment2Report_part1.md)
 
-			[Report 2 - Part II](Assignment2Report/Assignment2Report_part2.md)
+_Report 2-2_:	[Report 2 - Part II](Assignment2Report/Assignment2Report_part2.md)
 
 _Report 3_: [Report 3](Assignment3Report/Assignment3Report.md)
 						
