@@ -2927,38 +2927,38 @@ As requested, I ignored the z coordinate, and drew lines between the 3 points:
     DrawLine(P_1_Final, P_3_Final, glm::ivec3(0, 0, 0));
 
 ## Final Result:
-![alt text](../../master/Pictures/Beethoven%20.png "Beethoven")
+![alt text](../../main/Pictures/Beethoven%20.png "Beethoven")
 
 -----------------------------------------------------------------------------------
 Transformation GUI:
 ===================
 ### Transformation Window Button
 ##### _(available when loading a model)_: 
-![alt text](../../master/Pictures/Transform_Gui.png "Transformation Window Button")
+![alt text](../../main/Pictures/Transform_Gui.png "Transformation Window Button")
 
 
 #### World - Translation: 
-![alt text](../../master/Pictures/Transform_Gui_1.png "World - Translation")
+![alt text](../../main/Pictures/Transform_Gui_1.png "World - Translation")
 
 
 #### World - Scaling: 
-![alt text](../../master/Pictures/Transform_Gui_2.png "World - Scaling")
+![alt text](../../main/Pictures/Transform_Gui_2.png "World - Scaling")
 
 
 #### World - Rotation: 
-![alt text](../../master/Pictures/Transform_Gui_3.png "World - Rotation")
+![alt text](../../main/Pictures/Transform_Gui_3.png "World - Rotation")
 
 
 #### Local - Translation: 
-![alt text](../../master/Pictures/Transform_Gui_4.png "Local - Translation")
+![alt text](../../main/Pictures/Transform_Gui_4.png "Local - Translation")
 
 
 #### Local - Scaling: 
-![alt text](../../master/Pictures/Transform_Gui_5.png "Local - Scaling")
+![alt text](../../main/Pictures/Transform_Gui_5.png "Local - Scaling")
 
 
 #### Local - Rotation: 
-![alt text](../../master/Pictures/Transform_Gui_6.png "Local - Rotation")
+![alt text](../../main/Pictures/Transform_Gui_6.png "Local - Rotation")
 -----------------------------------------------------------------------------------
 
 ### GUI and Transformations Calculations:
@@ -2981,17 +2981,17 @@ When it comes to local transformations, I also built the matrices as [_(mentione
 
 #### World Translate & Local Rotate: 
 
-![alt text](../../master/Pictures/World_Translate_Rotate.png "World Translate & Local Rotate")
+![alt text](../../main/Pictures/World_Translate_Rotate.png "World Translate & Local Rotate")
 
-![alt text](../../master/Pictures/World_Translate_Rotate_2.png "World Translate & Local Rotate")
+![alt text](../../main/Pictures/World_Translate_Rotate_2.png "World Translate & Local Rotate")
 
 
 
 #### Local Translate & World Rotate: 
 
-![alt text](../../master/Pictures/Local_Translate_Rotate.png "Local Translate & World Rotate")
+![alt text](../../main/Pictures/Local_Translate_Rotate.png "Local Translate & World Rotate")
 
-![alt text](../../master/Pictures/Local_Translate_Rotate_2.png "Local Translate & World Rotate")
+![alt text](../../main/Pictures/Local_Translate_Rotate_2.png "Local Translate & World Rotate")
 
 -----------------------------------------------------------------------------------
 

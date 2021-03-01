@@ -163,15 +163,15 @@ if (cameraCount > 0)
 ### Wire Frame:
 Black BG          |  Blue BG
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/5_a.png)  |  ![](../../master/Pictures_As3/5_b.png)
+![](../../main/Pictures_As3/5_a.png)  |  ![](../../main/Pictures_As3/5_b.png)
 
 Perspective Projection:
-![](../../master/Pictures_As3/5_c.png)
+![](../../main/Pictures_As3/5_c.png)
 
 ### Fill Mode:
 Orthographic          |  Perspective
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/5_d.png)  |  ![](../../master/Pictures_As3/5_e.png)
+![](../../main/Pictures_As3/5_d.png)  |  ![](../../main/Pictures_As3/5_e.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -180,11 +180,11 @@ Orthographic          |  Perspective
 First of all, I implemented the phong shading using the same calculations in the previous assignment, thus calculating Ambient color, which is the material ambient multiplied by the light ambient, summed with the diffuse& specular element. Here's a general overview on the models we used in earlier assignments:
 
 
-![](../../master/Pictures_As3/6.jpg)
+![](../../main/Pictures_As3/6.jpg)
 1: Point Light
 2: Parallel Light, pointing in the positive Y direction
 
-![](../../master/Pictures_As3/6_1.jpg)
+![](../../main/Pictures_As3/6_1.jpg)
 1: Point Light
 2: Parallel Light, pointing in the negative X direction
 
@@ -195,34 +195,34 @@ Sphere:
 
 Alpha 1          |  Alpha 5
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/6_alpha_1.png)  |  ![](../../master/Pictures_As3/6_alpha_5.png)
+![](../../main/Pictures_As3/6_alpha_1.png)  |  ![](../../main/Pictures_As3/6_alpha_5.png)
 
 Beetle (downloaded from the provided link):
 
 Alpha 1          |  Alpha 5
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/6_b_alpha.png)  |  ![](../../master/Pictures_As3/6_b_alpha_5.png)
+![](../../main/Pictures_As3/6_b_alpha.png)  |  ![](../../main/Pictures_As3/6_b_alpha_5.png)
 
 ### Different lights and projections:
 _(You may observe the transformation on the bottom right hand corner)_
 
 Light1:
-![](../../master/Pictures_As3/6_a_1.png)
+![](../../main/Pictures_As3/6_a_1.png)
 Light2:
-![](../../master/Pictures_As3/6_a_2.png)
+![](../../main/Pictures_As3/6_a_2.png)
 Light3:
-![](../../master/Pictures_As3/6_a_3.png)
+![](../../main/Pictures_As3/6_a_3.png)
 
 Beetle:
-![](../../master/Pictures_As3/6_b_1.png)
-![](../../master/Pictures_As3/6_b_2.png)
-![](../../master/Pictures_As3/6_b_3.png)
-![](../../master/Pictures_As3/6_b_4.png)
-![](../../master/Pictures_As3/6_b_5.png)
+![](../../main/Pictures_As3/6_b_1.png)
+![](../../main/Pictures_As3/6_b_2.png)
+![](../../main/Pictures_As3/6_b_3.png)
+![](../../main/Pictures_As3/6_b_4.png)
+![](../../main/Pictures_As3/6_b_5.png)
 
 Tea and bananas, a healthy choice
 _(Parallel lights)_
-![](../../master/Pictures_As3/teawithbananas.png)
+![](../../main/Pictures_As3/teawithbananas.png)
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -236,13 +236,13 @@ First of all I will demonstrate the difference between a texture coordinates map
 
 Crate VT          |  Crate VT
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/Textures_1.png)  |  ![](../../master/Pictures_As3/Textures_1_b.png)
+![](../../main/Pictures_As3/Textures_1.png)  |  ![](../../main/Pictures_As3/Textures_1_b.png)
 
 #### Planar Projection:
 
 Crate Planar         |  Crate Planar
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/Textures_2.png)  |  ![](../../master/Pictures_As3/Textures_2_b.png)
+![](../../main/Pictures_As3/Textures_2.png)  |  ![](../../main/Pictures_As3/Textures_2_b.png)
 
 #### Teapot with B&W board - Planar Projection:
 
@@ -250,35 +250,35 @@ You may notice the planar effect which was demonstrated in class
 
 Teapot Planar         |  Teapot Planar
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/Textures_3.png)  |  ![](../../master/Pictures_As3/Textures_3_b.png)
+![](../../main/Pictures_As3/Textures_3.png)  |  ![](../../main/Pictures_As3/Textures_3_b.png)
 
 #### Some models with different textures:
 
 Most of the models on-line were quad faced, so I triangulated them using BLENDER application
 
 ##### The UV map:
-![](../../master/Data/amongus.jpg)
+![](../../main/Data/amongus.jpg)
 
 Among Us Character         |  Among Us Character
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/Textures_4.png)  |  ![](../../master/Pictures_As3/Textures_4_b.png)
+![](../../main/Pictures_As3/Textures_4.png)  |  ![](../../main/Pictures_As3/Textures_4_b.png)
 
 ##### The UV map:
-![](../../master/Data/timberland.jpg)
+![](../../main/Data/timberland.jpg)
 
 Timberland Boots         |  Timberland Boots
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/Textures_5_b.png)  |  ![](../../master/Pictures_As3/Textures_5_c.png)
+![](../../main/Pictures_As3/Textures_5_b.png)  |  ![](../../main/Pictures_As3/Textures_5_c.png)
 
 ##### Fruits:
 
-![](../../master/Pictures_As3/fruits.png)
+![](../../main/Pictures_As3/fruits.png)
 
 ##### Fruits with lights:
 
 Watermelon and Banana         |  Watermelon and Banana with different Z
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/fruits_with_lights.png)  |  ![](../../master/Pictures_As3/fruits_with_lights_b.png)
+![](../../main/Pictures_As3/fruits_with_lights.png)  |  ![](../../main/Pictures_As3/fruits_with_lights_b.png)
 
 ##### Added Features:
 
@@ -287,17 +287,17 @@ I also tried to do more with textures and lighting, thus instead of passing a di
 
 Watermelon without specular map:
 
-![](../../master/Pictures_As3/7_nospecular.png)
+![](../../main/Pictures_As3/7_nospecular.png)
 
 Watermelon with specular map:
 
-![](../../master/Pictures_As3/7_specular.png)
+![](../../main/Pictures_As3/7_specular.png)
 
 we can see how the specular map gave us a more sense of reflection. The mapping and its quality of course depends on the picture provided with the model.
 
 The specular map:
 
-![](../../master/Data/Watermelon_4k_Roughnessmap.png)
+![](../../main/Data/Watermelon_4k_Roughnessmap.png)
 
  
 _p.s this specular mapping was made as an added feature, so it should not be graded if it's below quality and requirements. I followed the learnopengl textures and lighting for this section._
@@ -312,61 +312,61 @@ Let's take the watermelon as an example, you may see that without the normal map
 
 Normal Map:
 
-![](../../master/Data/wataermelonnormalreport.png) 
+![](../../main/Data/wataermelonnormalreport.png) 
 
 Watermelon No Normal Mapping         |  Watermelon With Normal Mapping
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/watermelon_nonormals_.png)  |  ![](../../master/Pictures_As3/watermelon_withnormals_.png)
+![](../../main/Pictures_As3/watermelon_nonormals_.png)  |  ![](../../main/Pictures_As3/watermelon_withnormals_.png)
 
 Watermelon with diffuse texture only: 
 
-![](../../master/Pictures_As3/8_nonormal.png)  
+![](../../main/Pictures_As3/8_nonormal.png)  
 
 Watermelon with normal mapping:
 
-![](../../master/Pictures_As3/8_withnormal.png)
+![](../../main/Pictures_As3/8_withnormal.png)
 
 The brick wall is clearly visible as flat without normal mapping, when normal mapping is added, you can see the difference.
 
 Normal Map:
 
-![](../../master/Data/brickwall_normalreport.png) 
+![](../../main/Data/brickwall_normalreport.png) 
 
 BrickWall with Normal Mapping         |  BrickWall with Normal Mapping
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/8_withnormal_color.png)  |  ![](../../master/Pictures_As3/8_withnormal_color_1.png)
+![](../../main/Pictures_As3/8_withnormal_color.png)  |  ![](../../main/Pictures_As3/8_withnormal_color_1.png)
 
 BrickWall         |  BrickWall with Normal Mapping
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/8_nonormal_2.png)  |  ![](../../master/Pictures_As3/8_withnormal_2.png)
+![](../../main/Pictures_As3/8_nonormal_2.png)  |  ![](../../main/Pictures_As3/8_withnormal_2.png)
 
 BrickWall         |  BrickWall with Normal Mapping
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/8_nonormal_3.png)  |  ![](../../master/Pictures_As3/8_withnormal_3.png)
+![](../../main/Pictures_As3/8_nonormal_3.png)  |  ![](../../main/Pictures_As3/8_withnormal_3.png)
 
 Normal Map:
 
-![](../../master/Data/lemonnormalsreport.png) 
+![](../../main/Data/lemonnormalsreport.png) 
 
 Lemon No Normal Mapping         |  Lemon With Normal Mapping
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/Lemon_nonormals_.png)  |  ![](../../master/Pictures_As3/Lemon_withnormals_.png)
+![](../../main/Pictures_As3/Lemon_nonormals_.png)  |  ![](../../main/Pictures_As3/Lemon_withnormals_.png)
 
 Lemon         |  Lemon with Normal Mapping
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/8_nonormal_1.png)  |  ![](../../master/Pictures_As3/8_withnormal_1.png)
+![](../../main/Pictures_As3/8_nonormal_1.png)  |  ![](../../main/Pictures_As3/8_withnormal_1.png)
 
 Normal Map:
 
-![](../../master/Pictures_As3/bootsreport.jpg) 
+![](../../main/Pictures_As3/bootsreport.jpg) 
 
 
 
 Boots No Normal Mapping         |  Boots With Normal Mapping
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/boots_nonormal.png)  |  ![](../../master/Pictures_As3/boots_withnormal.png)
+![](../../main/Pictures_As3/boots_nonormal.png)  |  ![](../../main/Pictures_As3/boots_withnormal.png)
 
 
 Rock         |  Rock with Normal Mapping
 :-------------------------:|:-------------------------:
-![](../../master/Pictures_As3/8_nonormal_4.png)  |  ![](../../master/Pictures_As3/8_withnormal_4.png)
+![](../../main/Pictures_As3/8_nonormal_4.png)  |  ![](../../main/Pictures_As3/8_withnormal_4.png)
