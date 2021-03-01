@@ -1,7 +1,7 @@
 Assignment 2a
 =============
 
-Student: *Fahed Nasser* ID: *318489168*
+Student: *Fahed Nasser*
 
 ### Demo - Random Colors _No Z-Buffer_ VS. _Z-Buffer_:
 You can see  traiangles in the back overlap and visible. Here is a side by side comparison:

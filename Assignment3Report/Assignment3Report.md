@@ -1,7 +1,7 @@
 Assignment 3
 =============
 
-Student: *Fahed Nasser* ID: *318489168*
+Student: *Fahed Nasser*
 
 
 ## Section 1:

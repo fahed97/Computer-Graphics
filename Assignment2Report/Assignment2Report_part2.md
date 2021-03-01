@@ -1,7 +1,7 @@
 Assignment 2b
 =============
 
-Student: *Fahed Nasser* ID: *318489168*
+Student: *Fahed Nasser* 
 
 ## A look at the GUI:
 On the left side, Light Controls. Choosing the active light, choosing the shading, the 3 light RGB components, transformations _(Translation& Rotation for point, Direction for parallel)_. On the right side we can see the Model Material - RGB.

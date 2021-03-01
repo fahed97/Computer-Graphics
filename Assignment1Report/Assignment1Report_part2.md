@@ -1,7 +1,7 @@
 Assignment 1b
 =============
 
-Student: *Fahed Nasser* ID: *318489168*
+Student: *Fahed Nasser* 
 
 ### Banana Model Vertices and Faces
 

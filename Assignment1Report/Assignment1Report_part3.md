@@ -1,7 +1,7 @@
 Assignment 1c
 =============
 
-Student: *Fahed Nasser* ID: *318489168*
+Student: *Fahed Nasser* 
 
 ### 45° Increments - Bishop Model:
 I chose the _*Bishop*_ Model, and rotated it locally in the _*X*_ axis

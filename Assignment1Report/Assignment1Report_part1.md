@@ -2,7 +2,7 @@ Assignment 1a
 =============
 
 Student: *Fahed Nasser*
-ID: *318489168*
+
 
 The Code for Bresenham Algorithm
 ================================
