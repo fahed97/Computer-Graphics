@@ -189,9 +189,9 @@ The fifth situation I handled with a straight forward and easy loop, where I onl
 Sanity Check Result
 ===================
 
-![Sanity Check Result- Circle](https://github.com/HaifaGraphicsCourses/computergraphics2021-fahed-nasser/blob/main/Pictures/Circle.jpg)
+![Sanity Check Result- Circle](https://github.com/fahed97/Computer-Graphics/blob/main/Pictures/Circle.jpg)
 
 Creativity at its best
 ======================
 
-![Creativity](https://github.com/HaifaGraphicsCourses/computergraphics2021-fahed-nasser/blob/main/Pictures/Creative.jpg)
+![Creativity](https://github.com/fahed97/Computer-Graphics/blob/main/Pictures/Creative.jpg)
